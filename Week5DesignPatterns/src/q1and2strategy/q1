@@ -1,0 +1,9 @@
+1.a) The strategy design pattern is a way of changing behaviour in a class without affecting the rest of the class.
+     It does this by taking out the particular behaviour that can change into a separate interface,
+     implementing it in as many ways as necessary, and then placing it as an instance variable in the original class.
+
+
+  b) It is good to use this pattern when there is an aspect of behaviour that varies across several classes that extend the same class,
+     but vary in ways that would lead to repeated code if the behaviour was implemented separately in each class.
+     In other words, when the variance tends to fall into several categories.
+
