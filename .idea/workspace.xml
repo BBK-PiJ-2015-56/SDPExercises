@@ -5,22 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e839467e-5ffa-41e9-8923-4c35ffc07e43" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Week5DesignPatterns/src/q3and4abstractfactory/LondonErrorParser.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Week5DesignPatterns/src/q3and4abstractfactory/LondonFactory.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Week5DesignPatterns/src/q3and4abstractfactory/ParserFactoryProducer.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Week5DesignPatterns/Week5DesignPatterns.iml" afterPath="$PROJECT_DIR$/Week5DesignPatterns/Week5DesignPatterns.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Week5DesignPatterns/src/q1and2strategy/LeftAligner.java" afterPath="$PROJECT_DIR$/Week5DesignPatterns/src/q1and2strategy/LeftAligner.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Week5DesignPatterns/src/q1and2strategy/RightAligner.java" afterPath="$PROJECT_DIR$/Week5DesignPatterns/src/q1and2strategy/RightAligner.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Week5DesignPatterns/src/q1and2strategy/TestStrategyPattern.java" afterPath="$PROJECT_DIR$/Week5DesignPatterns/src/q1and2strategy/TestStrategyPattern.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Week5DesignPatterns/src/q1and2strategy/TextEditor.java" afterPath="$PROJECT_DIR$/Week5DesignPatterns/src/q1and2strategy/TextEditor.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Week5DesignPatterns/src/q1and2strategy/TextFormatter.java" afterPath="$PROJECT_DIR$/Week5DesignPatterns/src/q1and2strategy/TextFormatter.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Week5DesignPatterns/src/q3and4abstractfactory/AbstractParserFactory.java" afterPath="$PROJECT_DIR$/Week5DesignPatterns/src/q3and4abstractfactory/AbstractParserFactory.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Week5DesignPatterns/src/q3and4abstractfactory/LondonOrderParser.java" afterPath="$PROJECT_DIR$/Week5DesignPatterns/src/q3and4abstractfactory/LondonOrderParser.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Week5DesignPatterns/src/q3and4abstractfactory/NYCErrorParser.java" afterPath="$PROJECT_DIR$/Week5DesignPatterns/src/q3and4abstractfactory/NYCErrorParser.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Week5DesignPatterns/src/q3and4abstractfactory/NYCFactory.java" afterPath="$PROJECT_DIR$/Week5DesignPatterns/src/q3and4abstractfactory/NYCFactory.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Week5DesignPatterns/src/q3and4abstractfactory/NYCOrderParser.java" afterPath="$PROJECT_DIR$/Week5DesignPatterns/src/q3and4abstractfactory/NYCOrderParser.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Week5DesignPatterns/src/q3and4abstractfactory/TestAbstractFactoryPattern.java" afterPath="$PROJECT_DIR$/Week5DesignPatterns/src/q3and4abstractfactory/TestAbstractFactoryPattern.java" />
     </list>
     <ignored path="SDPExercises.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -56,8 +41,8 @@
       <file leaf-file-name="TestAbstractFactoryPattern.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Week5DesignPatterns/src/q3and4abstractfactory/TestAbstractFactoryPattern.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.10837439">
-              <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.32512316">
+              <caret line="6" column="37" selection-start-line="6" selection-start-column="37" selection-end-line="6" selection-end-column="37" />
               <folding>
                 <element signature="e#0#833#0" expanded="true" />
               </folding>
@@ -846,12 +831,19 @@
       <updated>1454421182445</updated>
       <workItem from="1454421182956" duration="5749000" />
       <workItem from="1454785851481" duration="30000" />
-      <workItem from="1454861774540" duration="3560000" />
+      <workItem from="1454861774540" duration="3635000" />
     </task>
+    <task id="LOCAL-00001" summary="q3 and 4 abstract factory done - but had to comment out q1and 2 so it compiled - in future separate qs need to be separate modules&#10;">
+      <created>1454865422916</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1454865422916</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9339000" />
+    <option name="totallyTimeSpent" value="9414000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-4" y="23" width="1378" height="780" extended-state="0" />
@@ -894,6 +886,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="q3 and 4 abstract factory done - but had to comment out q1and 2 so it compiled - in future separate qs need to be separate modules&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="q3 and 4 abstract factory done - but had to comment out q1and 2 so it compiled - in future separate qs need to be separate modules&#10;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1133,8 +1129,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Week5DesignPatterns/src/q3and4abstractfactory/TestAbstractFactoryPattern.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.10837439">
-          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.32512316">
+          <caret line="6" column="37" selection-start-line="6" selection-start-column="37" selection-end-line="6" selection-end-column="37" />
           <folding>
             <element signature="e#0#833#0" expanded="true" />
           </folding>
