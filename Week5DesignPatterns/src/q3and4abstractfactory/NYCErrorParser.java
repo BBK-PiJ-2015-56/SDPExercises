@@ -6,7 +6,7 @@ package q3and4abstractfactory;
 public class NYCErrorParser implements Parser {
 
     public String parse(String message) {
-        System.out.println("error has been parsed");
-        return "parsed error message";
+        System.out.println("NYC error has been parsed");
+        return "This is the parsed NYC error message";
     }
 }

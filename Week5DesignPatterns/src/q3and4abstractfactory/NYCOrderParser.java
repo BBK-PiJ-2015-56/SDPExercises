@@ -5,7 +5,7 @@ package q3and4abstractfactory;
  */
 public class NYCOrderParser implements Parser {
     public String parse(String message) {
-        System.out.println("order has been parsed.");
-        return "parsed order message";
+        System.out.println("NYC order has been parsed.");
+        return "This is the parsed NYC order message";
     }
 }

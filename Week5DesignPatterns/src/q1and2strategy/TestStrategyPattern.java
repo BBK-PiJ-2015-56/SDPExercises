@@ -3,6 +3,7 @@ package q1and2strategy;
 /**
  * Created by pdomok01 on 02/02/2016.
  */
+/*
 public class TestStrategyPattern {
         public static void main(String[] args) {
             TextFormatter formatter = new CapTextFormatter();
@@ -14,3 +15,5 @@ public class TestStrategyPattern {
         }
     }
 }
+*/
+
